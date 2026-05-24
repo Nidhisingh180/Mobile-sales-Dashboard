@@ -143,4 +143,5 @@ Monthly and weekly trend analysis supports forecasting and demand planning.
 
 6. Screenshots / Demos
 📷 Dashboard Preview
+https://github.com/Nidhisingh180/Mobile-sales-Dashboard/blob/main/Mobile%20sales%20dashboard%20snapshot.png
 
